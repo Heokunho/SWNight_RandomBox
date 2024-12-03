@@ -3,7 +3,8 @@
 
 주작따위 없습니다. 이런거에 양심을 팔지 않습니다. 감사합니다.
 
-빌드 파일 다운로드 링크 : https://drive.google.com/drive/folders/176rnT3_yTDeTzd7_pE6OryFgdcHsUzHu?usp=sharing
+빌드 파일 다운로드 링크: https://drive.google.com/drive/folders/176rnT3_yTDeTzd7_pE6OryFgdcHsUzHu?usp=sharing
+데모 영상 링크: https://youtu.be/7gAjv5LJd-o
 
 ### 사용 방법
 - 처음에 상자 아래 입력칸에 최대 인원 수를 입력한다.
